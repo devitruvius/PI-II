@@ -38,6 +38,7 @@ Um sistema de estoque eficiente é crucial para o sucesso de um supermercado. At
 ## Entregáveis da Sprint #1
 
 Artefato: https://docs.google.com/document/d/122pSdcKiIr-aAXZIg-p0U7ed8p4hRPa9/edit?usp=sharing&ouid=101072543271902000845&rtpof=true&sd=true
+
 Vídeo Explicativo: https://youtu.be/E2_TDB2mapQ
 
 ## Entregáveis da Sprint #2
