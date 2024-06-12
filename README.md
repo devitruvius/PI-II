@@ -35,17 +35,15 @@ Um sistema de estoque eficiente é crucial para o sucesso de um supermercado. At
 * **Implementação da Lógica de Negócio:**
   Desenvolvimento da lógica de negócio do sistema, utilizando técnicas de programação orientada a objetos (POO) e padrões de design adequados, para garantir a modularidade, flexibilidade e manutenabilidade do código.
 
-## Referências
-
-[Listar as referências bibliográficas e outras fontes de informação utilizadas na pesquisa.]
-
 ## Considerações Finais
 
 [Apresentar as reflexões sobre o projeto, destacando os seus desafios e aprendizados. Enfatizar a importância dessa experiência para o desenvolvimento profissional e acadêmico.]
 
 ## Equipe do Projeto
 
-[Listar os membros da equipe do projeto.]
+- Francisco Eudo da Silva (Inserir o GitHub)
+- [Gabriel Vasconcelos Andrade da Silva](https://github.com/devitruvius)
+- Wagner Fernando Lavandoski Padilha (Inserir o GitHub)
 
 ## Navegação
 * [Projeto Integrado I](https://github.com/seu-user/PI-I)
