@@ -35,17 +35,17 @@ Um sistema de estoque eficiente é crucial para o sucesso de um supermercado. At
 * **Implementação da Lógica de Negócio:**
   Desenvolvimento da lógica de negócio do sistema, utilizando técnicas de programação orientada a objetos (POO) e padrões de design adequados, para garantir a modularidade, flexibilidade e manutenabilidade do código.
 
-## Entregáveis da Sprint #1
+## Sprint #1
 
 Artefato: https://docs.google.com/document/d/122pSdcKiIr-aAXZIg-p0U7ed8p4hRPa9/edit?usp=sharing&ouid=101072543271902000845&rtpof=true&sd=true
 
 Vídeo Explicativo: https://youtu.be/E2_TDB2mapQ
 
-## Entregáveis da Sprint #2
+## Sprint #2
 
 [Em aguardo]
 
-## Entregáveis da Sprint #3
+## Sprint #3
 
 [Em aguardo]
 
