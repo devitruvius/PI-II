@@ -37,7 +37,7 @@ Um sistema de estoque eficiente é crucial para o sucesso de um supermercado. At
 
 ## Sprint #1
 
-Artefato: https://docs.google.com/document/d/122pSdcKiIr-aAXZIg-p0U7ed8p4hRPa9/edit?usp=sharing&ouid=101072543271902000845&rtpof=true&sd=true
+Artefato: https://docs.google.com/document/d/e/2PACX-1vS05wrypUYEt3znhjaYVfXLj_W4R6_qSQdFY5DLwfaDTPKRloNaE-taGf7DuEIdaw/pub
 
 Vídeo Explicativo: https://youtu.be/E2_TDB2mapQ
 
