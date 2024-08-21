@@ -64,7 +64,7 @@ Um sistema de estoque eficiente é crucial para o sucesso de um supermercado. At
 
 * [Projeto Integrado IV](https://github.com/seu-user/PI-IV)
 
-* [Projeto Integrado (Repositório Pai)](https://github.com/devitruvius/ADS-integrated-project)
+* [Voltar](https://github.com/devitruvius/ADS-integrated-project)
 
 ## Licença
 
