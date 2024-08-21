@@ -35,13 +35,13 @@ Um sistema de estoque eficiente é crucial para o sucesso de um supermercado. At
 * **Implementação da Lógica de Negócio:**
   Desenvolvimento da lógica de negócio do sistema, utilizando técnicas de programação orientada a objetos (POO) e padrões de design adequados, para garantir a modularidade, flexibilidade e manutenabilidade do código.
 
-## Sprint #1
+## [Sprint #1] Disciplina Integradora: **Projeto de Banco de Dados**
 
 * [Artefato: Detalhamento do Projeto Físico de Banco de Dados](https://docs.google.com/document/d/e/2PACX-1vS05wrypUYEt3znhjaYVfXLj_W4R6_qSQdFY5DLwfaDTPKRloNaE-taGf7DuEIdaw/pub)
 
 * [Vídeo Explicativo](https://youtu.be/E2_TDB2mapQ)
 
-## Sprint #2
+## [Sprint #2] Disciplina Integradora: **Interface Humano-Computador**
 
 * [Artefato: Wireframe da Interface de um Sistema Web de Gerenciamento de Supermercado de Bairro](https://docs.google.com/document/d/1GGiHQgeTS4yRfzoqRKXoR2chYgH5aEw4cjaM7X-hPTk/edit?usp=sharing)
 
