@@ -37,13 +37,15 @@ Um sistema de estoque eficiente é crucial para o sucesso de um supermercado. At
 
 ## Sprint #1
 
-* [Detalhamento do Projeto Físico de Banco de Dados](https://docs.google.com/document/d/e/2PACX-1vS05wrypUYEt3znhjaYVfXLj_W4R6_qSQdFY5DLwfaDTPKRloNaE-taGf7DuEIdaw/pub)
+* [Artefato: Detalhamento do Projeto Físico de Banco de Dados](https://docs.google.com/document/d/e/2PACX-1vS05wrypUYEt3znhjaYVfXLj_W4R6_qSQdFY5DLwfaDTPKRloNaE-taGf7DuEIdaw/pub)
 
 * [Vídeo Explicativo](https://youtu.be/E2_TDB2mapQ)
 
 ## Sprint #2
 
-[Em aguardo]
+* [Artefato: Wireframe da Interface de um Sistema Web de Gerenciamento de Supermercado de Bairro](https://docs.google.com/document/d/1GGiHQgeTS4yRfzoqRKXoR2chYgH5aEw4cjaM7X-hPTk/edit?usp=sharing)
+
+* [Vídeo Explicativo](https://drive.google.com/file/d/111jLgiQ9yDn2_GMYCbXvj2O0grOQ7Jsx/view?usp=sharing)
 
 ## Sprint #3
 
